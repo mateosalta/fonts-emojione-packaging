@@ -1,3 +1,9 @@
+fonts-emojione (2.2.7+ubports) xenial; urgency=medium
+
+  * Import to UBports
+
+ -- Dan Chapman <dan@ubports.com>  Tue, 09 Jan 2018 11:09:40 +0000
+
 fonts-emojione (2.2.6+16.10.20160804-0ubuntu2) bionic; urgency=medium
 
   * Drop fontconfig snippet, no longer required in Ubuntu 18.04 LTS (LP: #1674730)
