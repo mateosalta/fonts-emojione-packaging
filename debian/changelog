@@ -1,0 +1,17 @@
+fonts-emojione (2.2.6+16.10.20160804-0ubuntu2) bionic; urgency=medium
+
+  * Drop fontconfig snippet, no longer required in Ubuntu 18.04 LTS (LP: #1674730)
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Sun, 05 Nov 2017 10:49:15 -0500
+
+fonts-emojione (2.2.6+16.10.20160804-0ubuntu1) yakkety; urgency=medium
+
+  * Upstream 2.2.6 release 
+
+ -- Michael Sheldon <michael.sheldon@canonical.com>  Thu, 04 Aug 2016 15:12:39 +0000
+
+fonts-emojione (2.2.2+16.10.20160616-0ubuntu1) yakkety; urgency=medium
+
+  * Initial Debian package release.
+
+ -- Michael Sheldon <michael.sheldon@canonical.com>  Thu, 16 Jun 2016 13:40:17 +0000
